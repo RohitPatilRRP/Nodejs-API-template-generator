@@ -1,2 +1,2 @@
-# project-boilterplate
+# project-boilerplate
 Cli based Nodejs project generator
