@@ -1,0 +1,26 @@
+{
+  "name": "project-boilterplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  },
+  "bin": {
+    "generate": "./index.js"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RohitPatilRRP/project-boilterplate.git"
+  },
+  "author": "Rohit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RohitPatilRRP/project-boilterplate/issues"
+  },
+  "homepage": "https://github.com/RohitPatilRRP/project-boilterplate#readme"
+}
